@@ -1,0 +1,26 @@
+{
+  "name": "typescript-webpack-setup",
+  "version": "1.0.0",
+  "description": "Basic setup for Typescript Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faustaleonardo/typescript-webpack-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faustaleonardo/typescript-webpack-setup/issues"
+  },
+  "homepage": "https://github.com/faustaleonardo/typescript-webpack-setup#readme",
+  "devDependencies": {
+    "ts-loader": "^9.1.1",
+    "typescript": "^4.2.4",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0"
+  }
+}
